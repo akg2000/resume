@@ -1,3 +1,3 @@
 # Resume
 
-https://shreyar14.github.io/resume/
+https://akg2000.github.io/resume/
